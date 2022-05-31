@@ -2,13 +2,13 @@
 
 ## Problema 1: Se debe crear una solución que dado 2 números X y Y cualesquiera, se obtenga la multiplicación de los mismos SIN usar el operador de multiplicación *
 
-<!-- function multiplication(x, y) {
+function multiplication(x, y) {
   let result = 0;
   for (var i = 0; i < y; i++) {
     result += x;
   }
   return result;
-} -->
+}
 
 ## Esta funcion recibe 2 números, se declara una variable resultado que ira acumulando el valor de la multiplicación, y se hace un ciclo for por el numero y, por ejemplo si nos pasan x=2 e y=5, el ciclo for correra 5 veces y la variable result va a ser igual a result= result + x, es decir, lo que vale el resultado mas el valor de x por 5 veces que corre el ciclo.
 
