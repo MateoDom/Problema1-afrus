@@ -1,0 +1,20 @@
+{
+  "name": "problema-1-afrus",
+  "version": "1.0.0",
+  "description": "<h1>Problema1-afrus</h1>",
+  "main": "problema1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoDom/Problema1-afrus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoDom/Problema1-afrus/issues"
+  },
+  "homepage": "https://github.com/MateoDom/Problema1-afrus#readme"
+}
